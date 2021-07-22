@@ -1,8 +1,10 @@
-/* .navbar {
-    padding: 20px;
-} */
 
 body { 
     padding-top: 30px; 
 }
 
+h1 {color: turquoise}
+
+#summary-image {
+    float: left;
+}
