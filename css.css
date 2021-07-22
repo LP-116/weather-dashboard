@@ -3,8 +3,14 @@ body {
     padding-top: 30px; 
 }
 
-h1 {color: turquoise}
+h1 {color:skyblue;
+}
 
 #summary-image {
     float: left;
 }
+
+#fig1 {float: left;}
+#fig2 {float: right;}
+#fig3 {float: bottom;}
+#fig4 {float: bottom;}
