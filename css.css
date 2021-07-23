@@ -25,12 +25,7 @@ grid-item {
 button-item {
     float: right;}
 
-    /* display: grid;
-    align-items: right;
-    justify-items: right;
-    } 
-} */
-
+  
 #fig1 {float: left;}
 #fig2 {float: right;}
 #fig3 {float: bottom;}
