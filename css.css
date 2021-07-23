@@ -7,8 +7,29 @@ h1 {color:skyblue;
 }
 
 #summary-image {
-    float: left;
-}
+    float: left;}
+
+
+#main-vis-image {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    }
+
+grid-item {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    }   
+
+button-item {
+    float: right;}
+
+    /* display: grid;
+    align-items: right;
+    justify-items: right;
+    } 
+} */
 
 #fig1 {float: left;}
 #fig2 {float: right;}
