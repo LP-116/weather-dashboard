@@ -25,13 +25,61 @@ grid-item {
 button-item {
     float: right;}
 
-  
-#fig1 {float: left;}
-#fig2 {float: right;}
-#fig3 {float: bottom;}
-#fig4 {float: bottom;}
+#fig1 {
+    height: 195px;
+    width: 300px;}
+#fig2 {
+    height: 195px;
+    width: 300px;}
+#fig3 {
+    height: 195px;
+    width: 300px;}
+#fig4 {
+    height: 195px;
+    width: 300px;}
 
-/* #linkfig1{float: right;}
-#linkfig2{float: left;}
-#linkfig3{float: ;}
-#linkfig4{float: bottom;} */
+#linkfig1 {
+    height: 180px;
+    width: 250px;}
+#linkfig2 {
+    height: 180px;
+    width: 250px;}
+#linkfig3 {
+    height: 180px;
+    width: 250px;}
+#linkfig4 {
+    height: 180px;
+    width: 250px;}
+
+
+@media (max-width: 800px) {
+    #fig1 {
+        height: 95px;
+        width: 150px;}
+    #fig2 {
+        height: 95px;
+        width: 150px;}
+    #fig3 {
+        height: 95px;
+        width: 150px;}
+    #fig4 {
+        height: 95px;
+        width: 150px;}
+
+    #linkfig1 {
+        height: 150px;
+        width: 200px;}
+    #linkfig2 {
+        height: 150px;
+        width: 200px;}
+    #linkfig3 {
+        height: 150px;
+        width: 200px;}
+    #linkfig4 {
+        height: 150px;
+        width: 200px;}
+    
+    }
+  
+
+
