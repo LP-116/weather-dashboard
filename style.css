@@ -1,39 +1,28 @@
 
-body { 
-    padding-top: 30px; 
-}
+body {padding-top: 30px;}
 
-h1 {color:skyblue;
-}
+h1 {color:skyblue;}
 
-h2 {color:white;
+h2 {color:whitesmoke;
     font-size: medium;}
 
 h3 {font-size:x-large;
     align-items: center;}
 
+h4 {color:white;}
+
 .text-center {
-    text-align: center;
-    }
+    text-align: center;}
 
 #summary-image {
     float: left;}
-
-
-/* #main-vis-image {
-    display: grid;
-    align-items: center;
-    justify-items: center;
-    } */
 
 .center-block {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}
-
-#comparison-image {
-    float:
+    height: 240px;
+    width: 350px;
     }
 
 grid-item {
@@ -61,6 +50,10 @@ button-item {
     #linkfig {
         height: 150px;
         width: 200px;}
+
+    .center-block {
+        height: 300px;
+        width: 450px;}
     
     }
   
