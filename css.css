@@ -52,19 +52,19 @@ button-item {
     width: 250px;}
 
 
-@media (max-width: 800px) {
+@media (max-width: 780px) {
     #fig1 {
         height: 95px;
-        width: 150px;}
+        width: 115px;}
     #fig2 {
         height: 95px;
-        width: 150px;}
+        width: 115px;}
     #fig3 {
         height: 95px;
-        width: 150px;}
+        width: 115px;}
     #fig4 {
         height: 95px;
-        width: 150px;}
+        width: 115px;}
 
     #linkfig1 {
         height: 150px;
