@@ -55,6 +55,9 @@ button-item {
         height: 300px;
         width: 450px;}
     
+    #summary-image {
+        float: none;}
+        
     }
   
 
