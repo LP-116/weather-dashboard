@@ -54,10 +54,7 @@ The webpage has been published in this github respository.
 To view the visualisation dashboard click [here](https://lp-116.github.io/web-design-challenge/index.html)
 
 The site can also be viewed on a mobile device:
-![Screenshot_20210725-161902_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890244-d50daa3c-adc8-4372-afeb-4801ea2d929d.jpg)
-![Screenshot_20210725-161909_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890248-bfacb4aa-114c-4b29-9b12-959bafb2ac90.jpg)
-![Screenshot_20210725-161923_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890251-118af389-4bff-415e-b739-e3dd1f14d2f2.jpg)
-![Screenshot_20210725-161931_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890252-61de419f-31e5-4fc9-b48a-0d5ad7c3c54f.jpg)
+![Capture](https://user-images.githubusercontent.com/82348616/126890562-221a4bc8-162e-4b5d-be6a-c375c694744c.PNG)
 
 
 ---
