@@ -1,4 +1,5 @@
-# Web Design Challenge - Web Visualization Dashboard (Latitude)
+# Web Design Challenge
+## Web Visualization Dashboard (Latitude)
 ## To view the visualisation dashboard click [here](https://lp-116.github.io/web-design-challenge/index.html)
 
 ---
@@ -38,16 +39,38 @@ The big grid space contained a big image of the graph being reviewed and a short
 The smaller grid section on the visualisation page contained links to the other visualisations.
 I also added in a "Next" button for an alternate easy navigation through the graph images.
 
+The comparison page was then created using a grid of 2 x 2 (each grid taking up 6 spaces each).
+Clicking on each graph links back to the visualisation summary.
 
+Lastly, the data graph was created. Pandas was used to convert the csv file to a data html file. This was then used as a basis for the data page.
+The navbar was added to the html code and a table inside a grid was applied to the code.
 
-
-
+Once all pages were created, media queries were applied to ensure all pages were responsive when in a smaller window size and on a mobile device.
 
 ---
 ### Results
 
+The webpage has been published in this github respository.
+To view the visualisation dashboard click [here](https://lp-116.github.io/web-design-challenge/index.html)
 
+The site can also be viewed on a mobile device:
+![Screenshot_20210725-161902_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890244-d50daa3c-adc8-4372-afeb-4801ea2d929d.jpg)
+![Screenshot_20210725-161909_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890248-bfacb4aa-114c-4b29-9b12-959bafb2ac90.jpg)
+![Screenshot_20210725-161923_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890251-118af389-4bff-415e-b739-e3dd1f14d2f2.jpg)
+![Screenshot_20210725-161931_Samsung Internet](https://user-images.githubusercontent.com/82348616/126890252-61de419f-31e5-4fc9-b48a-0d5ad7c3c54f.jpg)
 
 
 ---
 ### Files
+
+This repository contains the below files:
+* An Assets folder - contains all the images used in the dashboard.
+* A CSS_files folder - contains the CSS files.
+* A Resources folder - contains the cities.csv file.
+* A Visualisations folder - contains the visualisation html files.
+* A data.html file - the data page.
+* A index.html file - the index page (or landing page).
+* A table-to-html.ipynb file - the python file containing the code used to convert the csv file to html.
+* A table.html file - the html file created from the python code (note: this is note a page in the dashboard, the table code was used in the data.html file).
+
+
