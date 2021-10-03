@@ -1,5 +1,5 @@
 # Web Design Challenge
-## Web Visualization Dashboard (Latitude)
+## Web Visualization Dashboard 
 ## To view the visualisation dashboard click [here](https://lp-116.github.io/web-design-challenge/index.html)
 
 ---
