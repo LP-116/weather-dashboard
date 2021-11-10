@@ -1,6 +1,6 @@
 # Web Design Challenge
 ## Web Visualization Dashboard 
-## To view the visualisation dashboard click [here](https://lp-116.github.io/web-design-challenge/index.html)
+## To view the visualisation dashboard click [here](https://lp-116.github.io/weather-dashboard/index.html)
 
 ---
 ### Task
